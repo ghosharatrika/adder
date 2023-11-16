@@ -1,4 +1,4 @@
-# Define the adder function to add two numbers
+# Defining the adder function to add two numbers
 def adder(a, b):
     return a + b
 
